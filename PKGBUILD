@@ -2,7 +2,7 @@
 
 pkgname=python-mock
 pkgver=5.1.0
-pkgrel=1
+pkgrel=2
 pkgdesc='The Python mock library.'
 url='https://mock.readthedocs.io/en/latest/'
 arch=(any)
